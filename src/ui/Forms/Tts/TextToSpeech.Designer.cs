@@ -161,12 +161,13 @@
             // 
             this.chkVoiceOver.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.chkVoiceOver.AutoSize = true;
-            this.chkVoiceOver.Location = new System.Drawing.Point(30, 404);
+            this.chkVoiceOver.Location = new System.Drawing.Point(26, 404);
             this.chkVoiceOver.Name = "chkVoiceOver";
             this.chkVoiceOver.Size = new System.Drawing.Size(96, 17);
             this.chkVoiceOver.TabIndex = 107;
             this.chkVoiceOver.Text = "Use Voiceover";
             this.chkVoiceOver.UseVisualStyleBackColor = true;
+            // 
             // chkusePiper2Pass
             // 
             this.chkusePiper2Pass.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));

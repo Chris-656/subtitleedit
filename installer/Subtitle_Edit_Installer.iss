@@ -38,10 +38,10 @@
 #define THREE_DIGIT_VER
 
 
-#define VerMajor
-#define VerMinor
-#define VerBuild
-#define VerRevision
+#define VerMajor 4
+#define VerMinor 0
+#define VerBuild 11
+#define VerRevision "alpha"
 
 #define bindir "..\src\ui\bin\Release\net48"
 

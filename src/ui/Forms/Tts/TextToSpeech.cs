@@ -425,6 +425,7 @@ namespace Nikse.SubtitleEdit.Forms.Tts
 
         private void AddAudioToVideoFile(string audioFileName)
         {
+            Process addAudioProcess;
             var videoExt = ".mkv";
             if (_videoFileName.EndsWith(".mp4", StringComparison.OrdinalIgnoreCase))
             {
